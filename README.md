@@ -3,7 +3,14 @@ Esse app tem o objetivo de auxialar na organização dos eventos e tarefas relac
 
 WARNING: O app se encontra em processo de desenvolvimento.
 
-Tecnologias utilizadas no desenvolvimento: 
+SCREENSHOTS:
+
+   <img src="images/firstPage.png" width="200"> &nbsp; <img src="images/UserAccountsDrawerHeader.png" width="200"> &nbsp;
+   <img src="images/mainPage.png" width="200"> &nbsp; </br> <img src="images/add1.png" width="200"> &nbsp; 
+   <img src="images/add2.png" width="200"> &nbsp; <img src="images/add3.png" width="200"> 
+
+
+TECNOLOGIAS UTILIZADAS NO DESENVOLVIMENTO: 
 Flutter Framework (https://flutter.dev/)
 
 FEATURES:
