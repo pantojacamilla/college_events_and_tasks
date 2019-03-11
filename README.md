@@ -16,11 +16,10 @@ Flutter Framework (https://flutter.dev/)
 FEATURES:
 
 Concluído:
-- Separação entre página principal e secundária com navegação por NAME ROUTE (https://flutter.dev/docs/cookbook/navigation/named-routes)
 - Create, Delete e Update dos Eventos/Tarefas
 - Implementação do banco de dados SQFlite (https://pub.dartlang.org/packages/sqflite)
 - Implementação do UserAccountsDrawerHeader (https://docs.flutter.io/flutter/material/UserAccountsDrawerHeader-class.html)
-
+- Separação entre página principal e secundária com navegação por NAME ROUTE (https://flutter.dev/docs/cookbook/navigation/named-routes)
 
 Em Andamento:
 - Autenticação com o google services
